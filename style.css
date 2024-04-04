@@ -1,0 +1,26 @@
+header{
+    background-color: rgb(255, 115, 115);
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    background-color: #f4f4f4;
+}
+.image{
+    width: 50vw;
+}
+.flex{
+    display: flex;
+}
+.item{
+    padding: 1px;
+    margin: 15px 0;
+    border-radius: 35px;
+    color: rgb(208, 1, 27);
+    background-color: white;
+}
